@@ -20,5 +20,9 @@
         android:id="@+id/SoundPoolBotonStop"
         android:text="Stop"
         />
-
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Boton de prueba"
+        />
 </LinearLayout>
